@@ -6,6 +6,10 @@ import rehypeExternalLinks from "rehype-external-links";
 
 // https://astro.build/config
 export default defineConfig({
+    redirects: {
+        "/shipping/journaling/": "/journaling/",
+        "/shipping/example-journal/": "/journaling/example-journal/",
+    },
     markdown: {
         rehypePlugins: [
             [
@@ -49,6 +53,10 @@ export default defineConfig({
                 {
                     label: "Design resources",
                     autogenerate: { directory: "design" },
+                },
+                {
+                    label: "Journaling",
+                    autogenerate: { directory: "journaling" },
                 },
                 {
                     label: "Assembly/Building",

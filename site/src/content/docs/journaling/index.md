@@ -8,7 +8,7 @@ Journaling! You've probably seen this term thrown around here and there. What is
 
 Journaling is a way you can keep track of your progress while working on your project! It usually involves creating a JOURNAL.md file in the root of your repository, and then taking short notes on what you did each day!
 
-Here's an [example journal entry](/shipping/example-journal/) for reference!
+Here's an [example journal entry](/journaling/example-journal/) for reference!
 
 Journaling isn't just useful for Hack Club projects, but it gives you something to look back long after you've finished your project! It's also a great way to share your journey with other people who might be interested in your project!
 
