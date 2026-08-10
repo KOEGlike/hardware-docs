@@ -27,4 +27,10 @@ Journaling isn't just useful for Hack Club projects, but it gives you something 
 - Try to make it less of a log of purely "I did X and Y" and include interesting things you came across! Weird quirks in a specific chip, cool inspo you came across, etc!
 - Images are worth a lot! Try to add a lot of images and avoid walls of text. It makes it much easier to convey information.
 
+---
+
 If you're using VSCode, one plugin I recommend is [Image Paste CDN](https://marketplace.visualstudio.com/items?itemName=dari.paste-cdn). It allows you to paste images from your clipboard and have the automatically uploaded to Hack Club's storage, which means you don't have to store the images locally!
+
+<img src="https://cdn.hackclub.com/019d5bf7-9950-72e9-a18f-22db6d4bf5ad/final.gif" alt="demo" />
+
+(_pretty nifty, huh ^^_)
