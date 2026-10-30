@@ -49,6 +49,7 @@ First and foremost, if you are a teenager, make sure you are in the [Hack Club S
 - [r/QMK](https://reddit.com/r/QMK)
 - [r/3DPrinting](https://reddit.com/r/3DPrinting)
 - [r/electronics](https://reddit.com/r/electronics)
+- [r/PrintedCircuitBoard](https://www.reddit.com/r/PrintedCircuitBoard/)
 
 #### Forums:
 
